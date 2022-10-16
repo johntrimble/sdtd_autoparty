@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="AutoParty" />
+		<Description value="Auto party with allies on server join." />
+		<Author value="John" />
+		<Version value="0.1.0" />
+	</ModInfo>
+</xml>
